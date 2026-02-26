@@ -1,0 +1,12 @@
+# Node dependencies
+node_modules/
+
+# Python virtual environment and database
+venv/
+*.db
+__pycache__/
+
+# Environment variables and build folders
+.env
+build/
+dist/
